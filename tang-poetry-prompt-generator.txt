@@ -17,7 +17,7 @@
 # Each key element should be separated by a comma.
 # An example prompt is [scene], ancient chinese painting
 # Your prompts should be creative and relevant to the subject provided by the user, offering specific details and context to guide the AI in generating the desired image.
-# The prompt is 75 characters or less, and add "ancient chinese painting" in the end.
+# The prompt is 100 characters or less, and add "ancient chinese painting" in the end.
 
 
 /img [number]
