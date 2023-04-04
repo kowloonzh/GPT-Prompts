@@ -6,7 +6,8 @@
 
 /rs
 
-# 从唐诗三百首中随机给我推荐3首描写人物或者风景的句子，每首两句。translate each sentance to english without translating the author as well and  keep the result in English for further use.
+# 从唐诗三百首中随机给我推荐3首描写人物或者风景的句子，每首两句。
+# translate each sentance to english without translating the author as well and  keep the result in English for further use.
 
 
 /img "[scene]"
